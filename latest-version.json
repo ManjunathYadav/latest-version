@@ -1,0 +1,21 @@
+{
+  "windows": {
+    "enabled": true,
+    "version": "1.0.2",
+    "url": "https://github.com/YOUR_USERNAME/v18-updates/releases/download/v1.0.2/V18-Windows-1.0.2.zip",
+    "fileName": "V18-Windows-1.0.2.zip",
+    "mandatory": false,
+    "notes": "New update available.",
+    "packageType": "zip"
+  },
+  "android": {
+    "enabled": true,
+    "version": "1.0.2",
+    "versionCode": 3,
+    "url": "https://github.com/YOUR_USERNAME/v18-updates/releases/download/v1.0.2/V18-Android-1.0.2.apk",
+    "fileName": "V18-Android-1.0.2.apk",
+    "mandatory": false,
+    "notes": "New update available.",
+    "packageType": "apk"
+  }
+}
